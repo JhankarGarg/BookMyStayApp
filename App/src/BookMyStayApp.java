@@ -12,6 +12,7 @@ public class BookMyStayApp {
             this.price = price;
         }
 
+
         public String getType() {
             return type;
         }
