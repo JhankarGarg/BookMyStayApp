@@ -1,4 +1,5 @@
 public class BookMyStayApp {
+  UC2-BasicRoomTypesStaticAvailability
     abstract class Room {
         private String type;
         private int beds;
@@ -82,4 +83,11 @@ public class BookMyStayApp {
         suite.displayRoom();
         System.out.println("Available: " + suiteAvailability);
     }
+
+
+    public static void main(String[] args) {
+        System.out.println("Welcome to the Hotel Booking Management System");
+        System.out.println("System initialized successfully.");
+    }
+dev
 }
