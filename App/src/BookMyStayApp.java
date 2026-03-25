@@ -64,7 +64,7 @@ public class BookMyStayApp {
 
                     if (room != null) {
                         room.displayDetails();
-                        System.out.println("Available Count: " + availableCount);
+                        System.out.println("Available  Count: " + availableCount);
                         System.out.println();
                     }
                 }
