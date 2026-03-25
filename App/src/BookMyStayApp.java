@@ -36,7 +36,7 @@ public class BookMyStayApp {
 
         public void processBookings(Queue<Reservation> queue, Inventory inventory) {
 
-            System.out.println("\nProcessing Booking Requests...\n");
+            System.out.println("\n Processing Booking Requests...\n");
 
             while (!queue.isEmpty()) {
 
