@@ -19,7 +19,7 @@ public class BookMyStayApp {
         double price;
 
         public AddOnService(String serviceName, double price) {
-            this.serviceName = serviceName;
+            this.serviceName =  serviceName;
             this.price = price;
         }
     }
